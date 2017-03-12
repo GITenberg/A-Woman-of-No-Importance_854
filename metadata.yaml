@@ -1,5 +1,8 @@
 _repo: A-Woman-of-No-Importance_854
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -16,6 +19,8 @@ description: "A Woman of No Importance is a play by Irish playwright Oscar Wilde
   \ other society plays, it satirizes English upper class society. It has been performed\
   \ on stages in Europe and North America since his death in 1900.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/854#A-Woman-of-No-Importance
 gutenberg_bookshelf: Plays
 gutenberg_issued: '1997-03-01'
 gutenberg_type: Text
