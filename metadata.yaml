@@ -1,5 +1,5 @@
 _repo: A-Woman-of-No-Importance_854
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,6 +35,7 @@ subjects:
 - !lcsh 'English drama'
 - !lcc 'PR'
 - !lcsh 'Man-woman relationships -- Drama'
+- GITenberg
 title: A Woman of No Importance
 url: http://www.gutenberg.org/ebooks/854
 wikipedia:
